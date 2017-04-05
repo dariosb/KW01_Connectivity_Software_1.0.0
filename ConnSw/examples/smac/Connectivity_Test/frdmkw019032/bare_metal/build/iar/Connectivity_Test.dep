@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>2</fileVersion>
+    <fileChecksum>3039990257</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\framework\Common\FwkInit.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\CopyToRam.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\DFlashSetProtection.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\EEEWrite.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\DEFlashPartition.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\EERAMGetProtection.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\DFlashGetProtection.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\EERAMSetProtection.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\framework\Flash\Internal\Flash_Adapter.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\framework\Flash\Internal\Flash_Adapter.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashCheckSum.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\framework\Common\EmbeddedTypes.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\include\SSD_FTFx_Internal.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashEraseAllBlock.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\SetEEEEnable.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashEraseResume.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashProgramCheck.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashProgramOnce.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashProgramSection.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashVerifyBlock.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashEraseSector.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\PFlashGetProtection.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\PFlashSetProtection.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\PFlashSwapCtl.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashCommandSequence.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\include\SSD_FTFx.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashVerifyAllBlock.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\include\SSD_FTFx_Common.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\include\SSD_Types.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\framework\FunctionLib\FunctionLib.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\framework\GPIOIrq\GPIO_IrqAdapter.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashInit.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashGetSecurityState.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashReadResource.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashReadOnce.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\include\FTFx_KX_flash_config.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashVerifySection.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashSecurityBypass.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashEraseSuspend.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashProgram.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\PFlashSwap.c</file>
+            <file>$PROJ_DIR$\debug\obj\hardware_init.o</file>
+            <file>$PROJ_DIR$\debug\obj\Panic.o</file>
+            <file>$PROJ_DIR$\debug\obj\GPIO_IrqAdapter.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\FlashVerifyBlock.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\PhyTime.o</file>
+            <file>$PROJ_DIR$\debug\obj\FlashCommandSequence.o</file>
+            <file>$PROJ_DIR$\debug\obj\SX123xDrv.o</file>
+            <file>$PROJ_DIR$\debug\obj\FlashEraseSector.o</file>
+            <file>$PROJ_DIR$\debug\obj\EERAMSetProtection.o</file>
+            <file>$PROJ_DIR$\debug\obj\startup_MKW01Z4.o</file>
+            <file>$PROJ_DIR$\debug\obj\SPI_Adapter.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\devices\MKW01Z4\include\fsl_bitaccess.h</file>
+            <file>$PROJ_DIR$\debug\obj\PhyPlmeData.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\debug\obj\PhyTime.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\FlashProgramOnce.o</file>
+            <file>$PROJ_DIR$\debug\obj\MemManager.o</file>
+            <file>$PROJ_DIR$\debug\obj\FlashReadOnce.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\SetEEEEnable.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\FlashProgramOnce.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\FlashProgramSection.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\debug\obj\PFlashSwapCtl.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\PFlashGetProtection.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\PFlashSetProtection.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\FlashVerifyAllBlock.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_osa_ext_bm.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\Messaging.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\PFlashSwap.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\FlashSecurityBypass.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\FlashVerifySection.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\FlashReadResource.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\FunctionLib.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\FlashProgram.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\FlashProgramCheck.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\Panic.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\PhyStateMachine.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\PhyPib.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\GenericList.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\ConnectivityMenus.o</file>
+            <file>$PROJ_DIR$\debug\obj\FlashVerifySection.o</file>
+            <file>$PROJ_DIR$\debug\obj\LED.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\SPI_Adapter.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\FlashSecurityBypass.o</file>
+            <file>$PROJ_DIR$\debug\obj\Keyboard.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\SPI.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\SetEEEEnable.o</file>
+            <file>$PROJ_DIR$\debug\obj\ConnectivityMenus.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\pin_mux.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\Connectivity_TestApp.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\Connectivity_Test_Platform.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\system_MKW01Z4.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\Connectivity_Test.pbd</file>
+            <file>$PROJ_DIR$\debug\obj\PhyPib.o</file>
+            <file>$PROJ_DIR$\debug\obj\hardware_init.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\gpio_pins.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\RNG.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\debug\obj\Flash_Adapter.o</file>
+            <file>$PROJ_DIR$\debug\obj\SMAC.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\board.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\EEEWrite.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$PROJ_DIR$\debug\obj\FlashProgram.o</file>
+            <file>$PROJ_DIR$\debug\obj\FlashEraseSuspend.o</file>
+            <file>$PROJ_DIR$\debug\obj\EERAMGetProtection.o</file>
+            <file>$PROJ_DIR$\debug\obj\FlashVerifyAllBlock.o</file>
+            <file>$PROJ_DIR$\debug\obj\ASP.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\devices\MKW01Z4\include\MKW01Z4_features.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\devices\fsl_device_registers.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+            <file>$PROJ_DIR$\debug\obj\FlashVerifyBlock.o</file>
+            <file>$PROJ_DIR$\debug\obj\FlashGetSecurityState.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\SX123xDrv.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\devices\MKW01Z4\include\MKW01Z4.h</file>
+            <file>$PROJ_DIR$\debug\obj\PhyPacketProcessor.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\system_MKW01Z4.o</file>
+            <file>$PROJ_DIR$\debug\obj\MemManager.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\DFlashSetProtection.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\ASP.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\FwkInit.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\PhyISR.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\FlashEraseResume.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\Reset.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\SerialManager.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\TimersManager.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\FlashCheckSum.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\FlashEraseSector.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\EERAMGetProtection.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\SerialManager.o</file>
+            <file>$PROJ_DIR$\debug\obj\FlashInit.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\RNG.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\DEFlashPartition.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\EEEWrite.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\PhyStateMachine.o</file>
+            <file>$PROJ_DIR$\debug\obj\EERAMSetProtection.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\TMR_Adapter.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\SecLib.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\FlashEraseAllBlock.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\PhyExtended.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\FlashEraseSuspend.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\FlashCommandSequence.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\DFlashGetProtection.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\Flash_Adapter.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\CopyToRam.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\PhyDebug.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\PFlashSwapCtl.o</file>
+            <file>$PROJ_DIR$\debug\obj\CopyToRam.o</file>
+            <file>$PROJ_DIR$\debug\obj\FlashProgramCheck.o</file>
+            <file>$PROJ_DIR$\debug\obj\PhyISR.o</file>
+            <file>$PROJ_DIR$\debug\obj\Reset.o</file>
+            <file>$PROJ_DIR$\debug\obj\PhyPlmeData.o</file>
+            <file>$PROJ_DIR$\debug\obj\FlashEraseResume.o</file>
+            <file>$PROJ_DIR$\debug\obj\Connectivity_TestApp.o</file>
+            <file>$PROJ_DIR$\debug\obj\DFlashGetProtection.o</file>
+            <file>$PROJ_DIR$\debug\obj\FwkInit.o</file>
+            <file>$PROJ_DIR$\debug\obj\PhyPacketProcessor.o</file>
+            <file>$PROJ_DIR$\debug\obj\FlashInit.o</file>
+            <file>$PROJ_DIR$\debug\obj\fsl_osa_ext_bm.o</file>
+            <file>$PROJ_DIR$\debug\obj\FlashReadOnce.o</file>
+            <file>$PROJ_DIR$\debug\obj\gpio_pins.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\debug\obj\DFlashSetProtection.o</file>
+            <file>$PROJ_DIR$\debug\obj\TimersManager.o</file>
+            <file>$PROJ_DIR$\debug\obj\PhyExtended.o</file>
+            <file>$PROJ_DIR$\debug\obj\FlashGetSecurityState.o</file>
+            <file>$PROJ_DIR$\debug\obj\FlashCheckSum.o</file>
+            <file>$PROJ_DIR$\debug\obj\LED.o</file>
+            <file>$PROJ_DIR$\debug\obj\PFlashGetProtection.o</file>
+            <file>$PROJ_DIR$\debug\obj\Connectivity_Test_Platform.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+            <file>$PROJ_DIR$\debug\obj\Messaging.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\osa\inc\fsl_os_abstraction_bm.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\osa\inc\fsl_os_abstraction.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\CMSIS\Include\core_cm0plus.h</file>
+            <file>$PROJ_DIR$\debug\obj\TMR_Adapter.o</file>
+            <file>$PROJ_DIR$\debug\obj\SecLib.o</file>
+            <file>$PROJ_DIR$\debug\obj\startup.pbi</file>
+            <file>$PROJ_DIR$\debug\obj\GPIO_IrqAdapter.o</file>
+            <file>$PROJ_DIR$\debug\obj\Keyboard.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+            <file>$PROJ_DIR$\debug\obj\board.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\CMSIS\Include\core_cmFunc.h</file>
+            <file>$PROJ_DIR$\debug\obj\pin_mux.o</file>
+            <file>$PROJ_DIR$\debug\obj\SMAC.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\debug\obj\FlashProgramSection.o</file>
+            <file>$PROJ_DIR$\debug\obj\SPI.o</file>
+            <file>$PROJ_DIR$\debug\obj\PFlashSwap.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\CMSIS\Include\core_cmInstr.h</file>
+            <file>$PROJ_DIR$\debug\obj\PFlashSetProtection.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\devices\MKW01Z4\include\MKW01Z4_extension.h</file>
+            <file>$PROJ_DIR$\debug\obj\GenericList.o</file>
+            <file>$PROJ_DIR$\debug\obj\DEFlashPartition.o</file>
+            <file>$PROJ_DIR$\debug\obj\FunctionLib.o</file>
+            <file>$PROJ_DIR$\debug\obj\FlashEraseAllBlock.o</file>
+            <file>$PROJ_DIR$\debug\Connectivity_Test.bin</file>
+            <file>$PROJ_DIR$\debug\obj\FlashReadResource.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\framework\Panic\Source\Panic.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\framework\OSAbstraction\Source\fsl_osa_ext_bm.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\framework\Messaging\Source\Messaging.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\framework\Keyboard\Source\Keyboard.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\framework\RNG\Source\RNG.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\framework\SecLib\SecLib.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\framework\LED\Source\LED.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\framework\Reset\Reset.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\framework\SerialManager\Source\SPI_Adapter\SPI_Adapter.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\framework\Lists\GenericList.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\framework\MemManager\Source\MemManager.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\framework\SerialManager\Interface\SerialManager.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\framework\TimersManager\Source\TMR_Adapter.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\framework\SerialManager\Source\SerialManager.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\framework\TimersManager\Source\TimersManager.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\framework\Panic\Interface\Panic.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\framework\TimersManager\Interface\TimersManager.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\ieee_802_15_4\Source\Phy\Source\MKW0x\PhyDebug.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\ieee_802_15_4\Source\Phy\Source\MKW0x\PhyISR.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\ieee_802_15_4\Source\SMAC\Source\SMAC.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\boards\frdmkw019032\board.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\boards\frdmkw019032\board.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\boards\frdmkw019032\gpio_pins.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\ieee_802_15_4\Source\Phy\Source\MKW0x\PhyExtended.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\ieee_802_15_4\Source\Phy\Source\MKW0x\PhyPacketProcessor.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\ieee_802_15_4\Source\Phy\Source\MKW0x\PhyPlmeData.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\ieee_802_15_4\Source\Phy\Source\MKW0x\ASP.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\ieee_802_15_4\Source\Phy\Source\MKW0x\PhyPib.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\ieee_802_15_4\Source\Phy\Source\MKW0x\SX123xDrv\SX123xDrv.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\ieee_802_15_4\Source\Phy\Source\MKW0x\PhyStateMachine.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\ieee_802_15_4\Source\Phy\Source\MKW0x\PhyTime.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\ieee_802_15_4\Source\Phy\Source\XcvrSpi\SPI.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\boards\frdmkw019032\pin_mux.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\devices\MKW01Z4\startup\iar\startup_MKW01Z4.s</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\boards\frdmkw019032\pin_mux.h</file>
+            <file>$PROJ_DIR$\debug\Connectivity_Test_BM.out</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\boards\frdmkw019032\hardware_init.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\devices\startup.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\devices\MKW01Z4\startup\system_MKW01Z4.c</file>
+            <file>$PROJ_DIR$\debug\obj\startup.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\boards\frdmkw019032\gpio_pins.h</file>
+            <file>$PROJ_DIR$\..\..\..\common\Connectivity_Test_Platform.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\common\Connectivity_TestApp.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\devices\MKW01Z4\startup\system_MKW01Z4.h</file>
+            <file>$PROJ_DIR$\..\..\..\common\ConnectivityMenus.c</file>
+            <file>$PROJ_DIR$\debug\obj\PhyDebug.o</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 235</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\framework\Common\FwkInit.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 156</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 121</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 215 186 11 216 103 162 173 174 211 62 54 187 111 98</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\CopyToRam.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 148</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 145</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 186 25 103 52 35 62 54 187 110 193 243 191 162 12 27 28 115 109 175 181 183 171 111 98</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\DFlashSetProtection.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 163</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 119</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 186 25 103 52 35 62 54 187 110 193 243 191 162 12 27 28 115 109 175 181 183 171 111 98</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\EEEWrite.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 102</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 134</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 186 25 103 52 35 62 54 187 110 193 243 191 162 12 27 28 115 109 175 181 183 171 111 98</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\DEFlashPartition.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 195</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 133</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 186 25 103 52 35 62 54 187 110 193 243 191 162 12 27 28 115 109 175 181 183 171 111 98</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\EERAMGetProtection.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 106</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 129</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 186 25 103 52 35 62 54 187 110 193 243 191 162 12 27 28 115 109 175 181 183 171 111 98</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\DFlashGetProtection.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 155</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 143</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 186 25 103 52 35 62 54 187 110 193 243 191 162 12 27 28 115 109 175 181 183 171 111 98</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\EERAMSetProtection.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 49</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 136</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\framework\Flash\Internal\Flash_Adapter.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 99</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 144</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashCheckSum.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 167</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 127</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashEraseAllBlock.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 197</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 139</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\SetEEEEnable.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 87</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 59</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashEraseResume.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 153</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 123</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashProgramCheck.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 149</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 75</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashProgramOnce.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 56</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 60</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashProgramSection.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 188</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 61</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashVerifyBlock.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 112</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 44</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashEraseSector.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 48</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 128</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\PFlashGetProtection.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 169</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 64</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\PFlashSetProtection.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 192</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 65</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\PFlashSwapCtl.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 147</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 63</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashCommandSequence.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 46</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 142</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashVerifyAllBlock.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 107</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 66</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\framework\FunctionLib\FunctionLib.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 196</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 73</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\framework\GPIOIrq\GPIO_IrqAdapter.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 179</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 43</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashInit.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 158</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 131</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashGetSecurityState.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 166</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 113</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashReadResource.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 199</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 72</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashReadOnce.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 160</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 58</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashVerifySection.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 81</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 71</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashSecurityBypass.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 84</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 70</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashEraseSuspend.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 105</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 141</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\FlashProgram.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 104</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 74</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\drivers\src\flash\C90TFS\drvsrc\source\PFlashSwap.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 190</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 69</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\framework\Panic\Source\Panic.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 42</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 76</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\framework\OSAbstraction\Source\fsl_osa_ext_bm.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 159</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 67</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\framework\Messaging\Source\Messaging.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 172</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 68</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\framework\Keyboard\Source\Keyboard.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 180</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 85</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\framework\RNG\Source\RNG.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 97</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 132</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\framework\SecLib\SecLib.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 177</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 138</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\framework\LED\Source\LED.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 168</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 82</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\framework\Reset\Reset.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 151</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 124</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\framework\SerialManager\Source\SPI_Adapter\SPI_Adapter.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 51</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 83</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\framework\Lists\GenericList.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 194</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 79</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\framework\MemManager\Source\MemManager.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 118</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\framework\TimersManager\Source\TMR_Adapter.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 176</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 137</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\framework\SerialManager\Source\SerialManager.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 130</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 125</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\framework\TimersManager\Source\TimersManager.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 164</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 126</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\ieee_802_15_4\Source\Phy\Source\MKW0x\PhyDebug.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 245</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 146</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\ieee_802_15_4\Source\Phy\Source\MKW0x\PhyISR.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 150</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 122</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\ieee_802_15_4\Source\SMAC\Source\SMAC.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 185</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 100</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\boards\frdmkw019032\board.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 182</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 101</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\boards\frdmkw019032\gpio_pins.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 161</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 96</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\ieee_802_15_4\Source\Phy\Source\MKW0x\PhyExtended.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 165</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 140</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\ieee_802_15_4\Source\Phy\Source\MKW0x\PhyPacketProcessor.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 157</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 116</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\ieee_802_15_4\Source\Phy\Source\MKW0x\PhyPlmeData.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 152</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 53</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\ieee_802_15_4\Source\Phy\Source\MKW0x\ASP.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 108</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 120</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\ieee_802_15_4\Source\Phy\Source\MKW0x\PhyPib.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 94</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 78</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\ieee_802_15_4\Source\Phy\Source\MKW0x\SX123xDrv\SX123xDrv.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 47</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 114</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\ieee_802_15_4\Source\Phy\Source\MKW0x\PhyStateMachine.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 135</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 77</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\ieee_802_15_4\Source\Phy\Source\MKW0x\PhyTime.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 45</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 55</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\ieee_802_15_4\Source\Phy\Source\XcvrSpi\SPI.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 189</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 86</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\boards\frdmkw019032\pin_mux.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 184</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 89</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\devices\MKW01Z4\startup\iar\startup_MKW01Z4.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 50</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\debug\Connectivity_Test_BM.out</name>
+            <outputs>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 198</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\boards\frdmkw019032\hardware_init.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 41</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 95</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\devices\startup.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 239</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 178</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\KSDK_1.3.0\platform\devices\MKW01Z4\startup\system_MKW01Z4.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 117</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 92</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\common\Connectivity_Test_Platform.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 170</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 91</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\common\Connectivity_TestApp.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 154</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 90</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\common\ConnectivityMenus.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 80</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 88</file>
+                </tool>
+            </outputs>
+        </file>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>[REBUILD_ALL]</name>
+        </forcedrebuild>
+    </configuration>
+</project>

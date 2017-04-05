@@ -1,0 +1,13 @@
+"C:\Program Files\IAR Systems\Embedded Workbench 8.0\arm\bin\armproc.dll" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 8.0\arm\bin\armsim2.dll" 
+
+"C:\Freescale\KW01_Connectivity_Software_1.0.0\KSDK_1.3.0\lib\ksdk_platform_lib\iar\KW01Z4\debug\psp_arm.out" 
+
+--plugin "C:\Program Files\IAR Systems\Embedded Workbench 8.0\arm\bin\armbat.dll" 
+
+--device_macro "C:\Program Files\IAR Systems\Embedded Workbench 8.0\arm\config\debugger\NXP\KLxx.dmac" 
+
+
+
+
