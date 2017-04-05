@@ -92,8 +92,21 @@ SECTIONS
     KEEP (*(.init))
     KEEP (*(.fini))
     . = ALIGN(4);
+
+    *(.BootloaderFlags)
   } > m_text
 
+  .nvm :
+  {
+     . = ALIGN(8);
+    FREESCALE_PROD_DATA_BASE_ADDR = .;
+    . += 1024;
+    NV_STORAGE_START_ADDRESS = .;
+    . += 1024;
+     . = ALIGN(8);
+    NV_STORAGE_END_ADDRESS = .;
+  } > m_text
+  
   .ARM.extab :
   {
     *(.ARM.extab* .gnu.linkonce.armextab.*)
