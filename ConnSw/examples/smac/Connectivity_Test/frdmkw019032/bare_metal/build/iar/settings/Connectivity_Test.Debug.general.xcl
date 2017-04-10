@@ -1,0 +1,15 @@
+"C:\Program Files\IAR Systems\Embedded Workbench 8.0\arm\bin\armproc.dll" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 8.0\arm\bin\armjlink2.dll" 
+
+"C:\Freescale\KW01_Connectivity_Software_1.0.0\ConnSw\examples\smac\Connectivity_Test\frdmkw019032\bare_metal\build\iar\debug\Connectivity_Test_BM.out" 
+
+--plugin "C:\Program Files\IAR Systems\Embedded Workbench 8.0\arm\bin\armbat.dll" 
+
+--device_macro "C:\Program Files\IAR Systems\Embedded Workbench 8.0\arm\config\debugger\NXP\KLxx.dmac" 
+
+--flash_loader "C:\Program Files\IAR Systems\Embedded Workbench 8.0\arm\config\flashloader\NXP\FlashKW01xx128K.board" 
+
+
+
+

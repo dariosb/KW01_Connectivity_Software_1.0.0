@@ -470,7 +470,8 @@ static bool_t ListenModeScenario(void)
       //Need some delay so that the serial message is sent entirely
       //before changing the clock configuration
       for(i=0; i < 1000; i++)
-        asm("nop");
+         ;
+//        asm("nop");
       /*Disable TPM to adjust prescaler*/
       PhyTimerStop();
       /*change prescaler so that stack timer tick is close to the 

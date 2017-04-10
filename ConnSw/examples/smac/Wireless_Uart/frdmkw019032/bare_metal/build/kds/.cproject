@@ -15,7 +15,7 @@
 				</extensions>
 			</storageModule>
 			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
-				<configuration artifactName="Connectivity_Test" buildArtefactType="org.eclipse.cdt.build.core.buildArtefactType.exe" buildProperties="org.eclipse.cdt.build.core.buildType=org.eclipse.cdt.build.core.buildType.debug,org.eclipse.cdt.build.core.buildArtefactType=org.eclipse.cdt.build.core.buildArtefactType.exe" cleanCommand="${cross_rm} -rf" description="" id="ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.635452285" name="Debug" parent="ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug" postbuildStep="C:/Freescale/KDS_3.0.0/toolchain/bin/arm-none-eabi-size  --format=berkeley ${BuildArtifactFileName}">
+				<configuration artifactName="Wireless_Uart" buildArtefactType="org.eclipse.cdt.build.core.buildArtefactType.exe" buildProperties="org.eclipse.cdt.build.core.buildType=org.eclipse.cdt.build.core.buildType.debug,org.eclipse.cdt.build.core.buildArtefactType=org.eclipse.cdt.build.core.buildArtefactType.exe" cleanCommand="${cross_rm} -rf" description="" id="ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.635452285" name="Debug" parent="ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug" postbuildStep="C:/Freescale/KDS_3.0.0/toolchain/bin/arm-none-eabi-size  --format=berkeley ${BuildArtifactFileName}">
 					<folderInfo id="ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.635452285." name="/" resourcePath="">
 						<toolChain id="ilg.gnuarmeclipse.managedbuild.cross.toolchain.elf.debug.1307999046" name="Cross ARM GCC" superClass="ilg.gnuarmeclipse.managedbuild.cross.toolchain.elf.debug">
 							<option id="ilg.gnuarmeclipse.managedbuild.cross.option.optimization.level.1887352155" name="Optimization Level" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.optimization.level" value="ilg.gnuarmeclipse.managedbuild.cross.option.optimization.level.none" valueType="enumerated"/>
@@ -58,9 +58,9 @@
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../../../../framework/GPIOIrq&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../../../../framework/Keyboard/Interface&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../../../../framework/LED/Interface&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../../../../framework/SerialManager/Source/SPI_Adapter&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../../../../framework/LowPower/Interface/KW0xZ&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../../../../framework/LowPower/Source/KW0xZ&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../../../../framework/SerialManager/Source/SPI_Adapter&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../../../../ieee_802_15_4/Source/SMAC/Generic&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../../../../ieee_802_15_4/Source/SMAC/Interface&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../../../../ieee_802_15_4/Source/SMAC/Source&quot;"/>
@@ -84,7 +84,6 @@
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../../../../ieee_802_15_4/Source/Phy/Source/MKW0x&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../../../../ieee_802_15_4/Source/Phy/Source/MKW0x/SX123xDrv&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../../../../ieee_802_15_4/Source/Phy/Source/XcvrSpi&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../common&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../common&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../../../../../KSDK_1.3.0/platform/drivers/inc&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/../../../../../../../../KSDK_1.3.0/platform/system/inc&quot;"/>
@@ -160,7 +159,7 @@
 	</storageModule>
 	<storageModule moduleId="refreshScope" versionNumber="2">
 		<configuration configurationName="Debug">
-			<resource resourceType="PROJECT" workspacePath="/Connectivity_Test"/>
+			<resource resourceType="PROJECT" workspacePath="/Wireless_Uart"/>
 		</configuration>
 	</storageModule>
 </cproject>

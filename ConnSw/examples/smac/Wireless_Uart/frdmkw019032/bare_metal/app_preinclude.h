@@ -48,5 +48,6 @@
 #define gRNG_UsePhyRngForInitialSeed_d 1
 #define gSerialManagerMaxInterfaces_c 1
 #define gSerialMgrRxBufSize_c 300
+#define cPWR_UsePowerModuleStandAlone 1
 
 #endif /* __APP_PREINCLUDE_H__ */

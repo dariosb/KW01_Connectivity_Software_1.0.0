@@ -12,11 +12,8 @@
  */
 #define gSmacSupported 1
 #define CT_Feature_Calibration 1
-
-/*
- * PHY
- */
-#define gAspCapability_d 1
+#define gMaxOutputPower_c 0x1F
+#define gMinOutputPower_c 0x00
 
 /* 
  * PHY Mode
@@ -42,7 +39,7 @@
          _block_size_  64  _number_of_blocks_    8 _eol_  \
          _block_size_ 128  _number_of_blocks_    2 _eol_  \
          _block_size_ 320  _number_of_blocks_    6 _eol_
-
+     
 /* 
  *FWK
  */        
@@ -50,6 +47,6 @@
 #define gNvDisableIntCmdSeq_c 0
 #define gRNG_UsePhyRngForInitialSeed_d 1
 #define gSerialManagerMaxInterfaces_c 1
-#define cPWR_UsePowerModuleStandAlone 1
+#define gSerialMgrRxBufSize_c 300
 
 #endif /* __APP_PREINCLUDE_H__ */
