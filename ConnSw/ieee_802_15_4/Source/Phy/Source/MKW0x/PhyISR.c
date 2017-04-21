@@ -725,7 +725,7 @@ void Phy_RxFrameFilter(void)
  *---------------------------------------------------------------------------*/
 void PhyRxHandleFifoLevelEvent(void)
 {
-    uint8_t readData[gRxFifoBlockLength_c];
+    uint8_t readData[gFillFifoBlockLength_c];
     uint8_t macDataIndex;
     uint8_t blockLen = mpRxParams->fifoBlockLen;
     
