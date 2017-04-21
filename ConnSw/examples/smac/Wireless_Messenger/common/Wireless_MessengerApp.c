@@ -785,7 +785,7 @@ bool_t ConsoleWM()
         }
         else
         {
-          if(!('\r' == gu8UartData && u8PacketIndex == 0))
+          if(('\r' != gu8UartData) && ('\0' != gu8UartData))
           {
             pPacketPdu[u8PacketIndex++] = gu8UartData;
             tempArray[0] = gu8UartData;
